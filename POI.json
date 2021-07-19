@@ -1,0 +1,136 @@
+[
+    {
+        "name": "Daymar",
+        "alt": "Stanton 2b",
+        "sys": "Stanton",
+        "type": "Moon",
+        "par": "Crusader",
+        "hab": "No",
+        "aff": "United Empire of Earth",
+        "radGame": 295.2,
+        "radLore": 1771,
+        "karm": 30,
+        "grav": 0.357,
+        "atm": 0.54,
+
+        "gloX": -18930539539.534645,
+        "gloY": -2610158765.4989395,
+        "gloZ": 0,
+
+        "POI": [
+            {
+                "name": "Javelin Wreck",
+                "desc": "In 2862, the UEES Flyssa was lost on Daymar, with all 65 hands. The wreck can be found approximately 240 km from ArcCorp Mining Area 141. The nearest orbital marker is OM2.",
+                "type": "Attraction",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "ArcCorp Mining Area 141",
+                "desc": "A mining facility owned and operated by ArcCorp.",
+                "type": "Outpost",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Bountiful Harvest Hydroponics",
+                "desc": "Bountiful Harvest Hydroponics is dedicated to growing the best nature has to offer. Crusader Industries commends Bountiful Harvest Hydroponics for their extraordinary response to those in need on Vega II. Following the horrific Vanduul attacks on 2945-10-05, Bountiful Harvest produced and donated more emergency food supplies for the Vega relief effort than any other outpost on Crusader's moons. This outpost's extraordinary sacrifice serves as a reminder that the UEE will always stand behind those who come face-to-face with the Vanduul threat.",
+                "type": "Outpost",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Brio's Breaker Yard",
+                "desc": "An unmarked scrapyard outpost.",
+                "type": "Outpost",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Kudre Ore",
+                "desc": "An independent mining facility.",
+                "type": "Outpost",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Nuen Waste Management",
+                "desc": "Caution: Hazardous Waste Site. Authorized Personnel Only.",
+                "type": "Outpost",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Shubin Mining Facility SCD-1",
+                "desc": "A mining facility owned and operated by Shubin Interstellar.",
+                "type": "Outpost",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Kudre Ore Mine",
+                "desc": "An independent mining site no longer in active operation.",
+                "type": "Outpost",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Dunlow Ridge Aid Shelter",
+                "desc": "This ridge was named for Crusader's former CEO August Dunlow. Many credit Dunlow's vision as instrumental into transforming Crusader Industries into the company it is today. With that in mind, Dunlow Ridge, with its expansive view of the Daymar landscape, was named in his honor.",
+                "type": "Outpost",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Eager Flats Aid Shelter",
+                "desc": "This section of Daymar became known as Eager Flats after an eccentric artist who called it home. Norman Eager gained notoriety in the 2920s for constructing a series of art installations so massive they could be seen by ships flying above the flats. Deemed 'ephemeral art' by Eager, the pieces were not meant to be permanent. Instead, they were slowly degraded and buried by the moon's constantly swirling sands.",
+                "type": "Outpost",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Tamdon Plains Aid Shelter",
+                "desc": "The Tamdon Plains were named in honor of Advocacy agent Crista Tamdon, who in 2912 was killed in the line of duty after being ambushed while crossing these plains in pursuit of a suspect.",
+                "type": "Outpost",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Wolf Point Aid Shelter",
+                "desc": "Situated above a junction of multiple canyons, Wolf Point earned its name thanks to Crusader surveyor Cally Stroble who had noted excitedly in her initial report that 'Against all odds, it seems a family of wolf-like creatures somehow has found a way to settle the area. Their cries can be heard for kilometers around.' However, when further investigation proved that the wolves were merely a prank by a fellow surveyor, the name stuck.",
+                "type": "Outpost",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            }
+        ],
+
+        "links": [
+            {
+                "name": "Daymar : Stanton 2b - Star Citizen Wiki",
+                "url": "https://starcitizen.tools/Daymar"
+            },
+            {
+                "name": "Daymar | Star Citizen Wiki | Fandom",
+                "url": "https://starcitizen.fandom.com/wiki/Daymar"
+            },
+            {
+                "name": "ARK StarMap - Daymar",
+                "url": "https://robertsspaceindustries.com/starmap?location=STANTON.MOONS.DAYMAR&system=STANTON"
+            }
+        ]
+
+    }
+
+]
