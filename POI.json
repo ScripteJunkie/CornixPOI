@@ -5,6 +5,7 @@
         "sys": "Stanton",
         "type": "Moon",
         "par": "Crusader",
+        "chld": "",
         "hab": "No",
         "aff": "United Empire of Earth",
         "radGame": 295.17,
@@ -115,6 +116,47 @@
                 "gloZ": 0,
                 "lat": 0,
                 "lon": 0
+            }
+        ],
+
+        "ROI": [
+            {
+                "name": "Daymar Rally",
+                "desc": "ROI Description",
+                "type": "Race",
+                "gloZ": 0,
+                "coords": {
+                    "1": {
+                        "lat": 0,
+                        "lon": 0,
+                        "desc": "Shubin, Start"
+                    },
+                    "2": {
+                        "lat": 0,
+                        "lon": 0,
+                        "desc": "Eager Flats, Checkpoint 1"
+                    },
+                    "3": {
+                        "lat": 0,
+                        "lon": 0,
+                        "desc": "Talon, Checkpoint 2"
+                    },
+                    "4": {
+                        "lat": 0,
+                        "lon": 0,
+                        "desc": "Echelon, Checkpoint 3"
+                    },
+                    "5": {
+                        "lat": 0,
+                        "lon": 0,
+                        "desc": "Hasgaha, Checkpoint 4"
+                    },
+                    "6": {
+                        "lat": 0,
+                        "lon": 0,
+                        "desc": "Kudre Ore, Finish"
+                    }
+                }
             }
         ],
 
