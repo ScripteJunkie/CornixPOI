@@ -8,7 +8,7 @@ Formatting:
 "sys": "Solar System",
 "type": "Planet/Moon/Asteroid",
 "par": "Orbits Body",
-"chld": "Orbiting Body"
+"chld": [["Orbiting Body", Distance]]
 "hab": "Habitable?",
 "aff": "Governing Party",
 "radGame": Ingame radius (km),
@@ -44,12 +44,14 @@ Formatting:
             "1": {
                 "lat": Surface Latitude,
                 "lon": Surface Longitude,
-                "desc": "type, title"
+                "desc": "type, title",
+                "trig": Trigger Range (km)
             },
             "2": {
                 "lat": Surface Latitude,
                 "lon": Surface Longitude'
-                "desc": "type, title"
+                "desc": "type, title",
+                "trig": Trigger Range (km)
             }
         }
     }
