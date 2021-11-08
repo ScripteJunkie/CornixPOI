@@ -1,5 +1,101 @@
 [
     {
+        "name": "Crusader",
+        "alt": "Stanton II",
+        "sys": "Stanton",
+        "type": "Gas",
+        "par": "",
+        "chld": [["Cellin", 100],["Daymar", 100],["Yela", 100]],
+        "hab": "Yes",
+        "aff": "Crusader Security",
+        "radGame": 0,
+        "radLore": 74500,
+        "karm": 30,
+        "grav": 1.0,
+        "atm": 1.0,
+
+        "gloX": 0,
+        "gloY": 0,
+        "gloZ": 0,
+        "rotV": 0,
+        "period": 0,
+
+        "POI": [
+            {
+                "name": "Orison",
+                "desc": "A city in the clouds, Orison offers a breathtaking view of Crusader's commercial shipbuilding platforms.",
+                "type": "Landing Zone",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Port Olisar",
+                "desc": "Located in the trade lanes above Crusader, Port Olisar offers a breathtaking view of the planet below. Owned and operated by Crusader Industries, Port Olisar acts as a gateway to the company's vast planetary holdings and orbital shipyards. This is currently the default spawn point in the Mini-PU.",
+                "type": "Station",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Comm Array ST2-55",
+                "desc": "A communication station is positioned around the area to help provide comm coverage. Its functionality or lack thereof is determined by gameplay. Comm Arrays were originally placed in orbit of the parent planet, but since Alpha 3.9, all planets and moons now contains one CommArray in its orbit each.",
+                "type": "Comm",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            }
+        ],
+
+        "ROI": [
+            {
+                "name": "Lagrangian",
+                "desc": "Neutral gravity zones where some stations are located.",
+                "type": "Station",
+                "gloZ": 0,
+                "coords": {
+                    "CRU L1": {
+                        "lat": 0,
+                        "lon": 0,
+                        "desc": "Ambitious Dream Station",
+                        "trig": 0.5
+                    },
+                    "CRU L3": {
+                        "lat": 0,
+                        "lon": 0,
+                        "desc": "",
+                        "trig": 0.5
+                    },
+                    "CRU L4": {
+                        "lat": 0,
+                        "lon": 0,
+                        "desc": "Shallow Fields Station",
+                        "trig": 0.5
+                    },
+                    "CRU L5": {
+                        "lat": 0,
+                        "lon": 0,
+                        "desc": "Beautiful Glen Station",
+                        "trig": 0.5
+                    }
+                }
+            }
+        ],
+
+        "links": [
+            {
+                "name": "Crusader : Stanton II - Star Citizen Wiki",
+                "url": "https://starcitizen.tools/Crusader"
+            },
+            {
+                "name": "Crusader | Star Citizen Wiki | Fandom",
+                "url": "https://starcitizen.fandom.com/wiki/Crusader"
+            }
+        ]
+
+    },
+
+    {
         "name": "Daymar",
         "alt": "Stanton 2b",
         "sys": "Stanton",
@@ -116,6 +212,22 @@
                 "gloZ": 0,
                 "lat": 0,
                 "lon": 0
+            },
+            {
+                "name": "Covalex Hub Gundo",
+                "desc": "",
+                "type": "Misc",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Comm Array ST2-47",
+                "desc": "",
+                "type": "Comm",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
             }
         ],
 
@@ -129,32 +241,38 @@
                     "1": {
                         "lat": 0,
                         "lon": 0,
-                        "desc": "Shubin, Start"
+                        "desc": "Shubin, Start",
+                        "trig": 0.5
                     },
                     "2": {
                         "lat": 0,
                         "lon": 0,
-                        "desc": "Eager Flats, Checkpoint 1"
+                        "desc": "Eager Flats, Checkpoint 1",
+                        "trig": 1
                     },
                     "3": {
                         "lat": 0,
                         "lon": 0,
-                        "desc": "Talon, Checkpoint 2"
+                        "desc": "Talon, Checkpoint 2",
+                        "trig": 1
                     },
                     "4": {
                         "lat": 0,
                         "lon": 0,
-                        "desc": "Echelon, Checkpoint 3"
+                        "desc": "Echelon, Checkpoint 3",
+                        "trig": 2
                     },
                     "5": {
                         "lat": 0,
                         "lon": 0,
-                        "desc": "Hasgaha, Checkpoint 4"
+                        "desc": "Hasgaha, Checkpoint 4",
+                        "trig": 1.5
                     },
                     "6": {
                         "lat": 0,
                         "lon": 0,
-                        "desc": "Kudre Ore, Finish"
+                        "desc": "Kudre Ore, Finish",
+                        "trig": 0.5
                     }
                 }
             }
@@ -172,6 +290,136 @@
             {
                 "name": "ARK StarMap - Daymar",
                 "url": "https://robertsspaceindustries.com/starmap?location=STANTON.MOONS.DAYMAR&system=STANTON"
+            }
+        ]
+
+    },
+    {
+        "name": "Cellin",
+        "alt": "Stanton 2a",
+        "sys": "Stanton",
+        "type": "Moon",
+        "par": "Crusader",
+        "chld": "",
+        "hab": "No",
+        "aff": "United Empire of Earth",
+        "radGame": 260.3,
+        "radLore": 1562,
+        "karm": 27,
+        "grav": 0.357,
+        "atm": 0.001,
+
+        "gloX": 0,
+        "gloY": 0,
+        "gloZ": 0,
+        "rotV": 0,
+        "period": 0,
+
+        "POI": [
+            {
+                "name": "Ashburn Channel Aid Shelter",
+                "desc": "",
+                "type": "Outpost",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Flanagan's Ravine Aid Shelter",
+                "desc": "",
+                "type": "Outpost",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Gallete Family Farms",
+                "desc": "",
+                "type": "Outpost",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Julep Ravine Aid Shelter",
+                "desc": "",
+                "type": "Outpost",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Hickes Research Outpost",
+                "desc": "",
+                "type": "Outpost",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Mogote Aid Shelter",
+                "desc": "",
+                "type": "Outpost",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Stash House",
+                "desc": "",
+                "type": "Hidden",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Terra Mills HydroFarm",
+                "desc": "",
+                "type": "Outpost",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Tram & Myers Mining",
+                "desc": "",
+                "type": "Mine",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Security Post Kareah",
+                "desc": "",
+                "type": "Misc.",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            },
+            {
+                "name": "Comm Array ST2-28",
+                "desc": "",
+                "type": "Comm",
+                "gloZ": 0,
+                "lat": 0,
+                "lon": 0
+            }
+        ],
+
+        "ROI": [
+            {
+
+            }
+        ],
+
+        "links": [
+            {
+                "name": "Cellin : Stanton 2a - Star Citizen Wiki",
+                "url": "https://starcitizen.tools/Cellin"
+            },
+            {
+                "name": "Daymar | Star Citizen Wiki | Fandom",
+                "url": "https://starcitizen.fandom.com/wiki/Cellin"
             }
         ]
 
